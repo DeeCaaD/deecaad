@@ -7,6 +7,12 @@
 
 ---
 
+Public projects I have worked on can be found from organization profiles
+- [WeaponMechanics projects](https://github.com/WeaponMechanics)
+- [University of Helsinki projects and courses](https://github.com/Perttu-Kangas)
+
+---
+
 <div align="center">
   
   ![GitHub Languages](https://api.githubtrends.io/user/svg/DeeCaaD/langs?time_range=one_year&loc_metric=changed&theme=dark)
