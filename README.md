@@ -2,7 +2,8 @@
 
   ![banner](https://raw.githubusercontent.com/DeeCaaD/deecaad/main/DeeCaad_youtube_LinkedIn_banner.jpg)
   
-  ![DeeCaaD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeCaaD&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+  ![DeeCaaD's GitHub stats dark](https://raw.githubusercontent.com/DeeCaaD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![DeeCaaD's GitHub stats white](https://raw.githubusercontent.com/DeeCaaD/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </div>
 
 ---
