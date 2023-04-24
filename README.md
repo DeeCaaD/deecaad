@@ -19,5 +19,5 @@ Public projects I have worked on can be found from organization profiles
   ![GitHub Languages](https://api.githubtrends.io/user/svg/DeeCaaD/langs?time_range=one_year&loc_metric=added&theme=dark)
   ![GitHub Repositories](https://api.githubtrends.io/user/svg/DeeCaaD/repos?time_range=one_year&group=other&loc_metric=added&theme=dark)
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,py,react,docker,postgresql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,py,react,docker,postgresql,mongodb)](https://skillicons.dev)
 </div>
