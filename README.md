@@ -12,4 +12,4 @@
 
 Public projects I have worked on can be found from organization profiles
 - [WeaponMechanics projects](https://github.com/WeaponMechanics)
-- [University of Helsinki projects and courses](https://github.com/Perttu-Kangas)
+- [University of Helsinki projects and courses](https://github.com/perttukangas)
